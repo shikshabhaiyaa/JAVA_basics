@@ -12,7 +12,5 @@ public class LoopsSumOfNo {
             sum = sum + i;
         }
         System.out.println(sum);
-
-
     }
 }
